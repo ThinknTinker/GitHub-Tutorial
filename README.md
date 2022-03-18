@@ -1,2 +1,3 @@
-# GitHub-Tutorial
-How to use github tutorial
+Github tutorial - I've added some text. 
+
+Lines added - 3
